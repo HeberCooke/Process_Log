@@ -140,7 +140,7 @@ def main():
     window.title("TSK-Log")
     window.configure(background="black")
     window.geometry("730x605") # Height then width
-    window.resizable(0,0) # not resizable
+    #window.resizable(0,0) # not resizable
     window.config(padx=5)
     menuBar = Menu(window)
     
