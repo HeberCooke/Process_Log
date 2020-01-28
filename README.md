@@ -11,6 +11,10 @@ The process log is like the task manager. It pulls up a list of running processe
 5. Press the Start. 
 6. After a file has been created press the big button to see a chart
 
+Just run the project.py file to start the program. 
+Or create an executable with [PyInstaller](https://www.pyinstaller.org/)
+#### Remeber the start is the small button
+![Start button](https://github.com/HeberCooke/Process_Log/blob/master/images/processLog2.png)
 #### Favorite code
 ```python
 class Log(Thread):
